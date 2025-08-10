@@ -29,11 +29,11 @@ Currently pursuing my **Master’s in Data Science** at *Sapienza Università di
 ---
 
 ## 🌍 Languages I Speak
-- 🇬🇧 English – Full Professional (IELTS 7.5)  
-- 🇷🇺 Russian – Fluent  
-- 🇦🇿 Azerbaijani – Native  
-- 🇹🇷 Turkish – Native  
-- 🇮🇹 Italian – Limited Working  
+- English – Full Professional (IELTS 7.5)  
+- Russian – Fluent  
+- Azerbaijani – Native  
+- Turkish – Native  
+- Italian – Limited Working  
 
 ---
 
