@@ -10,7 +10,7 @@ Currently pursuing my **Master’s in Data Science** at *Sapienza Università di
 
 ## 🚀 What I Do
 
-- 🤖 **Machine Learning & AI** – Building predictive models using XGBoost, Random Forest, DBSCAN, Regression, and Neural Networks.  
+- 🤖 **Machine Learning & AI** – Designing and implementing intelligent solutions to uncover patterns, make predictions, and solve complex problems.  
 - ⚙️ **Data Engineering** – Designing and maintaining ETL pipelines, implementing CI/CD workflows for ML models.  
 - 📊 **Data Visualization** – Creating interactive dashboards in Tableau, Power BI, and Python-based visualizations.  
 - ☁️ **Big Data & Cloud** – Harnessing Hadoop, Spark, AWS, and Google Cloud for large-scale processing.  
