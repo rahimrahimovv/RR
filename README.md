@@ -38,7 +38,8 @@ Currently pursuing my **Master’s in Data Science** at *Sapienza Università di
 ---
 
 📫 **Let’s connect:**  
-[💼 LinkedIn]http://www.linkedin.com/in/rahimrahimovv) | 📧 rahimrahimovv@gmail.com  
+📫 **Let’s connect:**  
+ 📧 rahimrahimovv@gmail.com | 📱 WhatsApp: [+39 348 259 6246](https://wa.me/393482596246)  
 
 ---
 ⭐ *"Data is the new oil, but insight is the spark that fuels innovation."*
