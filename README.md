@@ -11,10 +11,10 @@ Currently pursuing my **Master’s in Data Science** at *Sapienza Università di
 ## 🚀 What I Do
 
 - 🤖 **Machine Learning & AI** – Designing and implementing intelligent solutions to uncover patterns, make predictions, and solve complex problems.  
-- ⚙️ **Data Engineering** – Designing and maintaining ETL pipelines, implementing CI/CD workflows for ML models.  
+- ⚙️ **Data Engineering** – Designing and maintaining ETL pipelines, implementing CI/CD workflows for data-driven applications.  
 - 📊 **Data Visualization** – Creating interactive dashboards in Tableau, Power BI, and Python-based visualizations.  
 - ☁️ **Big Data & Cloud** – Harnessing Hadoop, Spark, AWS, and Google Cloud for large-scale processing.  
-- 🧪 **Research** – Applying Deep Learning & NLP to discover disease-drug interactions in biomedical datasets.
+- 🧪 **Research & Innovation** – Exploring and applying advanced analytical methods, statistical techniques, and emerging technologies to solve real-world challenges across multiple domains.
 
 ---
 
